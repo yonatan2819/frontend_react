@@ -1,0 +1,10 @@
+import React from 'react';
+import './estilos.css'
+
+function Title(props) {
+  // Recuerda que este es solo un componente funcional, 
+  // tu debes incluir estilos para hacerlo más atractivo
+  return <h1 className='titulo'>{props.title}</h1>;
+}
+
+export default Title;
