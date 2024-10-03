@@ -1,5 +1,4 @@
 import React from 'react';
-import './estilos.css'
 
 function Details(props) {
   // Recuerda que este es solo un componente funcional, 
